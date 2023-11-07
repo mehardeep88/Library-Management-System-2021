@@ -1,5 +1,9 @@
-# Library-Management-System-2021
+# Library_Management_System
 
-Uploaded again
+LINKS:
+google cloud platform login:
+https://console.cloud.google.com/home/dashboard?project=solar-safeguard-278107
 
---Used google books api to fetch and retrieve books
+https://developers.google.com/books/docs/v1/using#ids
+
+https://github.com/googleapis/google-api-python-client/
